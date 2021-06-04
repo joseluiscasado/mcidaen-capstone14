@@ -74,7 +74,7 @@ app.layout = html.Div([
             )
         ]),
         html.Div([
-            html.Img(src="twitch.png",
+            html.Img(src="https://www.elconfidencialdigital.com/asset/zoomcrop,1366,800//media/elconfidencialdigital/images/2020/12/02/2020120211490463359.png",
                      style={"width": "100px"}),
             html.H2(
                 id='twitch-visit',
